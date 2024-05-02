@@ -1,6 +1,6 @@
 # SDIM: A Subtly Designed Invertible Matrix for Enhanced Privacy-Preserving Outsourcing Matrix Multiplication and Related Tasks
 This code is for the SDIM paper early accessed in the IEEE Transactions on Dependable and Secure Computing (TDSC-2023)
-The rough draft is *An Efficient Matrix Multiplication with Enhanced Privacy Protection in Cloud Computing and Its Applications
+The rough draft is *An Efficient Matrix Multiplication with Enhanced Privacy Protection in Cloud Computing and Its Applications*
 
 ## 
 
