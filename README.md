@@ -21,14 +21,11 @@ This work has been accepted to [TDSC-2023](DOI: 10.1109/TDSC.2023.3333256), plea
 Thank you very much 😉
 
 ```bibtex
-@ARTICLE{10318946,
+@article{liu2023sdim,
+  title={SDIM: A Subtly Designed Invertible Matrix for Enhanced Privacy-Preserving Outsourcing Matrix Multiplication and Related Tasks},
   author={Liu, Chun and Hu, Xuexian and Chen, Xiaofeng and Wei, Jianghong and Liu, Wenfen},
-  journal={IEEE Transactions on Dependable and Secure Computing}, 
-  title={SDIM: A Subtly Designed Invertible Matrix for Enhanced Privacy-Preserving Outsourcing Matrix Multiplication and Related Tasks}, 
+  journal={IEEE Transactions on Dependable and Secure Computing},
   year={2023},
-  volume={},
-  number={},
-  pages={1-18},
-  keywords={Task analysis;Outsourcing;Cryptography;Servers;Sparse matrices;Security;Protocols;privacy protection;matrix multiplication;outsourcing computation;linear regression},
-  doi={10.1109/TDSC.2023.3333256}}
+  publisher={IEEE}
+}
 ```
